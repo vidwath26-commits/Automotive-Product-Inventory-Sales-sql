@@ -1,0 +1,9 @@
+category_id,Category_name,Total_Order_Lines,Returned_Order_Lines,Return_Rate
+8,Interior,7348,394,5.36
+4,Brakes,7493,383,5.11
+7,Drivetrain,7282,364,5.00
+2,Exhaust,7855,391,4.98
+1,"Engine & Filtration",7565,376,4.97
+3,Suspension,7543,371,4.92
+6,Cooling,7171,350,4.88
+5,Electrical,7743,361,4.66
