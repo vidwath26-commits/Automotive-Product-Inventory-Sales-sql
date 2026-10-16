@@ -1,0 +1,121 @@
+supplier_id,supplier_name,country,supplier_tier,active_flag,onboarded_date
+1,Northstar Auto 001,Japan,Standard,Y,2018-05-02
+2,Roadline Performance 002,USA,Standard,Y,2025-12-04
+3,Precision Performance 003,India,Strategic,Y,2025-02-05
+4,Northstar Industries 004,Germany,Preferred,Y,2018-02-24
+5,Ironclad Auto 005,USA,Strategic,Y,2024-07-13
+6,Blue Ridge Components 006,China,Standard,Y,2018-02-14
+7,Apex Auto 007,Japan,Preferred,Y,2023-11-30
+8,Northstar Performance 008,Japan,Strategic,Y,2017-11-03
+9,Precision Systems 009,USA,Strategic,Y,2021-09-05
+10,Blue Ridge Auto 010,Canada,Standard,Y,2023-04-22
+11,Ironclad Performance 011,USA,Preferred,Y,2023-12-26
+12,Ironclad Components 012,China,Standard,Y,2021-01-05
+13,Precision Components 013,Germany,Standard,Y,2025-10-31
+14,Blue Ridge Parts 014,Japan,Preferred,Y,2024-06-03
+15,Apex Performance 015,USA,Standard,Y,2018-12-30
+16,Pioneer Parts 016,USA,Strategic,Y,2023-06-08
+17,Roadline Performance 017,Mexico,Standard,Y,2024-01-01
+18,Precision Parts 018,USA,Standard,Y,2020-03-13
+19,Northstar Auto 019,Japan,Standard,Y,2024-01-28
+20,Pioneer Auto 020,Germany,Strategic,Y,2025-08-11
+21,Velocity Parts 021,Japan,Standard,Y,2024-10-30
+22,Blue Ridge Parts 022,USA,Standard,Y,2024-04-22
+23,Apex Industries 023,China,Standard,Y,2023-01-30
+24,Evergreen Systems 024,India,Standard,Y,2019-08-05
+25,Northstar Components 025,Japan,Standard,N,2024-08-15
+26,Northstar Systems 026,USA,Preferred,Y,2020-06-28
+27,Roadline Industries 027,Canada,Preferred,Y,2022-02-06
+28,Blue Ridge Parts 028,USA,Standard,Y,2020-01-06
+29,Blue Ridge Performance 029,USA,Preferred,Y,2020-01-01
+30,Northstar Auto 030,Germany,Strategic,Y,2018-07-06
+31,Precision Parts 031,Japan,Standard,Y,2026-03-19
+32,Northstar Performance 032,China,Standard,Y,2018-06-02
+33,Northstar Components 033,USA,Strategic,Y,2017-10-29
+34,Roadline Components 034,USA,Standard,Y,2025-12-21
+35,Velocity Performance 035,Canada,Strategic,Y,2022-04-27
+36,Velocity Parts 036,USA,Standard,Y,2021-03-13
+37,Precision Industries 037,USA,Preferred,Y,2024-01-26
+38,Roadline Industries 038,Canada,Standard,Y,2020-09-03
+39,Northstar Systems 039,USA,Standard,Y,2018-03-24
+40,Summit Systems 040,Germany,Standard,Y,2023-12-29
+41,Precision Performance 041,USA,Strategic,Y,2018-09-08
+42,Evergreen Components 042,India,Standard,Y,2022-04-20
+43,Roadline Industries 043,Germany,Preferred,Y,2026-02-04
+44,Ironclad Performance 044,USA,Strategic,Y,2025-12-21
+45,Velocity Auto 045,India,Standard,Y,2020-06-16
+46,Precision Auto 046,Japan,Preferred,Y,2024-06-24
+47,Velocity Components 047,USA,Standard,Y,2022-11-15
+48,Roadline Auto 048,USA,Standard,Y,2021-08-05
+49,Precision Systems 049,Germany,Preferred,Y,2018-05-05
+50,Velocity Performance 050,USA,Standard,Y,2020-08-10
+51,Evergreen Components 051,USA,Preferred,Y,2023-04-01
+52,Evergreen Performance 052,USA,Standard,Y,2026-06-16
+53,Roadline Performance 053,Japan,Preferred,N,2017-01-18
+54,Precision Industries 054,Germany,Standard,Y,2023-11-18
+55,Ironclad Systems 055,Germany,Preferred,Y,2025-02-10
+56,Roadline Industries 056,Japan,Strategic,Y,2026-02-12
+57,Blue Ridge Components 057,Canada,Preferred,N,2021-01-23
+58,Blue Ridge Components 058,Mexico,Standard,Y,2018-02-19
+59,Velocity Performance 059,USA,Standard,Y,2019-08-07
+60,Summit Systems 060,USA,Standard,Y,2025-02-24
+61,Evergreen Auto 061,Germany,Standard,Y,2025-05-31
+62,Apex Auto 062,Canada,Standard,Y,2023-02-08
+63,Summit Industries 063,Mexico,Standard,Y,2018-03-06
+64,Summit Industries 064,Japan,Preferred,Y,2018-03-03
+65,Pioneer Systems 065,Germany,Standard,Y,2021-08-01
+66,Northstar Components 066,Mexico,Standard,Y,2022-08-21
+67,Pioneer Systems 067,Mexico,Preferred,Y,2017-04-24
+68,Evergreen Systems 068,USA,Strategic,Y,2023-07-30
+69,Roadline Systems 069,USA,Standard,Y,2022-03-21
+70,Apex Industries 070,USA,Preferred,Y,2017-02-13
+71,Northstar Industries 071,USA,Standard,Y,2017-12-01
+72,Ironclad Parts 072,USA,Preferred,Y,2021-05-10
+73,Velocity Auto 073,India,Strategic,Y,2023-12-05
+74,Roadline Components 074,USA,Standard,Y,2024-11-28
+75,Summit Components 075,USA,Preferred,Y,2021-02-18
+76,Apex Industries 076,USA,Preferred,Y,2019-10-31
+77,Roadline Systems 077,USA,Standard,Y,2026-04-13
+78,Summit Systems 078,Germany,Standard,Y,2021-05-24
+79,Northstar Industries 079,Mexico,Preferred,Y,2020-01-09
+80,Roadline Industries 080,Japan,Preferred,N,2021-03-29
+81,Ironclad Systems 081,Germany,Standard,Y,2017-02-12
+82,Precision Performance 082,USA,Standard,Y,2019-11-23
+83,Velocity Performance 083,Japan,Standard,Y,2021-12-10
+84,Ironclad Systems 084,USA,Strategic,Y,2025-10-20
+85,Apex Systems 085,USA,Strategic,Y,2024-01-28
+86,Velocity Components 086,USA,Preferred,Y,2024-06-27
+87,Apex Auto 087,Germany,Strategic,Y,2022-03-23
+88,Velocity Parts 088,Canada,Standard,Y,2018-01-23
+89,Precision Auto 089,USA,Strategic,Y,2020-09-30
+90,Precision Systems 090,Canada,Standard,Y,2026-07-22
+91,Northstar Auto 091,USA,Standard,Y,2017-06-04
+92,Evergreen Auto 092,Germany,Standard,Y,2025-06-05
+93,Ironclad Performance 093,USA,Preferred,Y,2023-07-24
+94,Summit Industries 094,USA,Standard,Y,2019-09-21
+95,Evergreen Systems 095,USA,Standard,Y,2024-06-15
+96,Summit Parts 096,Germany,Standard,Y,2025-01-08
+97,Ironclad Systems 097,USA,Strategic,Y,2017-06-01
+98,Pioneer Performance 098,USA,Strategic,Y,2018-01-08
+99,Ironclad Industries 099,USA,Standard,Y,2023-05-20
+100,Precision Industries 100,China,Preferred,N,2026-07-29
+101,Roadline Components 101,India,Preferred,Y,2017-03-25
+102,Velocity Components 102,Germany,Standard,N,2023-05-19
+103,Ironclad Components 103,USA,Standard,Y,2018-04-23
+104,Northstar Performance 104,China,Standard,Y,2023-03-26
+105,Precision Auto 105,Japan,Preferred,Y,2022-12-22
+106,Velocity Auto 106,Germany,Standard,Y,2017-11-13
+107,Blue Ridge Systems 107,USA,Strategic,N,2023-07-11
+108,Precision Systems 108,USA,Standard,Y,2025-08-06
+109,Precision Auto 109,USA,Standard,Y,2025-04-11
+110,Northstar Industries 110,India,Strategic,Y,2017-04-12
+111,Apex Performance 111,Canada,Strategic,Y,2019-05-11
+112,Northstar Auto 112,USA,Preferred,Y,2019-04-23
+113,Velocity Auto 113,USA,Standard,Y,2021-05-06
+114,Ironclad Performance 114,Mexico,Standard,Y,2018-05-16
+115,Roadline Industries 115,USA,Standard,Y,2025-03-10
+116,Evergreen Performance 116,India,Standard,Y,2024-06-11
+117,Ironclad Performance 117,Japan,Standard,Y,2024-09-30
+118,Blue Ridge Systems 118,Germany,Standard,Y,2018-11-25
+119,Evergreen Performance 119,USA,Strategic,Y,2017-02-21
+120,Evergreen Components 120,Mexico,Strategic,Y,2025-09-23
