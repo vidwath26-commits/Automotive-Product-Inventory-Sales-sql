@@ -68,7 +68,6 @@ automotive_mysql_portfolio/
 │   └── Q01.csv ... Q12.csv   # sequentially numbered outputs
 └── docs/
     ├── business_findings.md
-    └── practice_questions.md
 ```
 
 ## How to reproduce
